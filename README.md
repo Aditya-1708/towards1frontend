@@ -124,6 +124,12 @@ src/
   <img src="https://github.com/user-attachments/assets/9a2d6702-8a5c-4fd5-b7ff-9354b1f298cb" width="260" />
 </p>
 
+<p align="center">
+  <img width="1907" height="1079" alt="image" src="https://github.com/user-attachments/assets/0110e686-0ad7-4089-b24c-97d231263151" />
+<img width="1904" height="1075" alt="Screenshot 2025-11-30 175715" src="https://github.com/user-attachments/assets/dedf5657-c517-459b-9ce6-6770235ff9a6" />
+<img width="1919" height="1079" alt="Screenshot 2025-11-30 175630" src="https://github.com/user-attachments/assets/425cf140-a675-48a7-be9d-42a4dcffefb4" />
+</p>
+
 ---
 
 ## 📝 License
@@ -135,4 +141,5 @@ Licensed under the **MIT License**
 ## ⭐ Support
 
 If this project helped you, don’t forget to leave a **star ⭐** on GitHub!
+
 
