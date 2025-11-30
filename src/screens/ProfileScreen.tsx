@@ -39,7 +39,7 @@ export default function ProfileScreen({ navigation }: any) {
   const [linkedin, setLinkedin] = useState("");
   const [instagram, setInstagram] = useState("");
 
-  const backend = "http://192.168.0.9:8000";
+  const backend = process.env.EXPO_PUBLIC_API_URL;
 
   const calculateScore = (p: ProfileData | null) => {
     if (!p) return 0;
