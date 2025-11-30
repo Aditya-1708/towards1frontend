@@ -126,13 +126,6 @@ src/
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome!  
-Submit issues & PRs to help grow the project 🚀
-
----
-
 ## 📝 License
 
 Licensed under the **MIT License**
@@ -142,3 +135,4 @@ Licensed under the **MIT License**
 ## ⭐ Support
 
 If this project helped you, don’t forget to leave a **star ⭐** on GitHub!
+
